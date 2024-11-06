@@ -1,5 +1,13 @@
-## Hi there 👋
+## babado meismo
+Meu nome é Yuri🐈‍⬛
 
+Estou me desenvolvendo na linguagem java💻
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos📁
+
+## Você pode entrar em contato comigo 📫
+
+00001105548284sp@al.educacao.sp.gov.br
 <!--
 **YuriViotto/YuriViotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
